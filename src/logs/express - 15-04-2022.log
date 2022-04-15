@@ -1,0 +1,9 @@
+
+Request: POST /login at Fri Apr 15 2022 12:09:01 GMT-0300, IP: ::ffff:127.0.0.1, User Agent: insomnia/2022.2.1
+Request Body:
+{
+	"name": "richard"
+}
+Response Body:
+Hello World
+Response: 200 12.861 ms 
